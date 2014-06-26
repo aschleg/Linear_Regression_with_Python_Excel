@@ -1,0 +1,3 @@
+$ cat .gitignore
+Python/images/
+Python/excel_implementation/
